@@ -1,0 +1,49 @@
+{
+  "name": "movie-hangout-organiser-bot",
+  "version": "0.1.0",
+  "description": "This Discord bot is designed to help manage movie watch parties at local theaters for a friend hangout server. It automates the organization of server channels and categories, and provides a set of slash commands for users with the 'planner' role.",
+  "main": "index.js",
+  "devDependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.67",
+    "dotenv": "^16.3.1",
+    "moment": "^2.30.1",
+    "node-schedule": "^2.1.1",
+    "nodemon": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add later"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "movie",
+    "watchparty",
+    "watch-party",
+    "event",
+    "management",
+    "event-management",
+    "planner",
+    "automated",
+    "embeds",
+    "channels",
+    "categories",
+    "slash",
+    "commands",
+    "slash-commands",
+    "role",
+    "based",
+    "role-based"
+  ],
+  "author": "sponnify",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
