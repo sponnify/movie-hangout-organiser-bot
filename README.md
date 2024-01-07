@@ -60,6 +60,7 @@ npm install
 cp .env.example .env
 nano .env
 node index.js
+```
 
 ## Known Issues
 
